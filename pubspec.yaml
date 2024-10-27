@@ -1,7 +1,7 @@
 name: pkg3
 description: "my pkgs, i will use it always"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Abdulelah783/pkg3.git
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  get: ^4.6.6
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
